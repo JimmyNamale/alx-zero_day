@@ -1,2 +1,2 @@
 My second readme
-Uodated from GTIHUB
+Uodated from GITHUB
